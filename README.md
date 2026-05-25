@@ -1,6 +1,6 @@
-# Hi there, I'm Ravi Peta! 👋 
+# Hi there, I'm Ravi Kumar Peta! 👋 
 
-### Senior Software Engineer | Backend Developer | Automation Specialist 
+### Tech Lead & Data Architect | Big Data & Cloud Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ravipeta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,12 +10,12 @@
 ---
 
 ### 🚀 About Me
-I am an experienced Software Engineer passionate about crafting robust, scalable backend systems, designing clean architectures, and implementing seamless test automation pipelines. I thrive on solving complex system integration challenges and optimizing backend workflows.
+I am a seasoned Data Engineering professional acting across the spectrum as a **Tech Lead**, **Solution Architect**, and **Individual Contributor**. I specialize in designing, building, and optimizing large-scale data architectures, robust ETL/ELT pipelines, and cloud-native data platforms. 
 
-- 🏢 **Current Focus:** Building enterprise-grade features and enhancing system performance.
-- ⚙️ **Interests:** Distributed systems, microservices infrastructure, performance tuning, and CI/CD automation.
-- 💬 **Ask me about:** Java, XML processing, backend web architectures, and test frameworks.
-- 📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/ravipeta/) or check out my repositories below.
+- 🏗️ **Architect:** Designing scalable, secure, and cost-effective cloud data architectures (Lambda/Kappa, Lakehouse framework).
+- 👥 **Tech Lead:** Guiding engineering teams, mentoring developers, defining best practices, and ensuring delivery excellence.
+- 💻 **Individual Contributor:** Getting my hands dirty writing optimized, high-performance distributed computing code.
+- ⚙️ **Core Focus:** Big Data, Real-time Streaming, Cloud Infrastructure, and Data Mesh strategies.
 
 ---
 
@@ -24,42 +24,43 @@ I am an experienced Software Engineer passionate about crafting robust, scalable
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring Boot
+      <img src="https://skillicons.dev/icons?i=spark" width="48" height="48" alt="Apache Spark" />
+      <br>Apache Spark
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <!-- Databricks Skill Icon alternative via styling -->
+      <img src="https://img.icons8.com/color/48/000000/databricks.png" width="48" height="48" alt="Databricks" />
+      <br>Databricks
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python / PySpark
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-      <br>Maven
+      <img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="Scala" />
+      <br>Scala
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Databases" />
+      <br>CosmosDB/SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Containers" />
+      <br>Docker / ACA
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
+      <br>CI/CD
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -68,7 +69,14 @@ I am an experienced Software Engineer passionate about crafting robust, scalable
   </tr>
 </table>
 
-*(Note: Feel free to add/remove icons by changing the list after `?i=` using names from [Skill Icons](https://skillicons.dev).)*
+---
+
+### 🌟 Expertise & Key Capabilities
+
+* **Cloud Data Warehousing & Lakes:** Extensive experience with Azure cloud ecosystems (ADLS Gen2, Azure Synapse, Event Hubs, Azure Functions).
+* **Distributed Computing:** Building highly optimized Spark applications (PySpark/Scala) for processing terabyte-scale datasets.
+* **Unified Analytics:** Leveraging Databricks for collaborative data science, Delta Lake implementation, and automated job scheduling.
+* **System Design & Architecture:** Crafting reliable messaging and streaming architectures, handling stateful stream processing, and system integration.
 
 ---
 
@@ -81,13 +89,6 @@ I am an experienced Software Engineer passionate about crafting robust, scalable
 
 ---
 
-### ⚡ Highlights & Open Source Contributions
-* Customizing test matching criteria and asserting data structures with libraries like **XMLUnit**.
-* Exploring server-less scripting and lightweight runtime integrations (like Nashorn/JavaScript on the JVM).
-* Optimizing data pipelines and developing RESTful APIs that serve fast, predictable responses.
-
----
-
 <p align="center">
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
+  <i>"In God we trust, all others must bring data." — W. Edwards Deming</i>
 </p>
